@@ -39,5 +39,6 @@ out/
 ### Kotlin ###
 .kotlin
 
-/WINDOWS_.*
-/LINUX_.*
+WINDOWS*
+/LINUX*
+application.properties
